@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Darunesh
 
-<!--
-**Darunesh1/darunesh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer | ML Enthusiast | DevOps Learner**  
+Passionate about building scalable systems, crafting clean APIs, and using AI to solve real problems.
 
-Here are some ideas to get you started:
+### 🔧 Technologies I Work With
+- **Backend:** Python (Flask, Django), Go, FastAPI  
+- **DevOps:** Docker, Docker Compose, Redis, Celery  
+- **Databases:** PostgreSQL, MySQL  
+- **Frontend:** React, Next.js  
+- **AI/ML:** XGBoost, CNNs, Feature Engineering, Whisper, Wav2Vec2  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I'm Working On
+- ML-powered data analysis agent API  
+- Event management backend at Paradox (IIT Madras)  
+- ML projects involving audio classification & web analytics  
+
+### 🎯 Interests
+- Distributed systems, microservices, LLM agents  
+- Gaming 🎮 (*Skyrim*, *The Witcher 3*)  
+- Swimming 🏊‍♂️ and football ⚽  
+- Movies & spicy food 🌶️
+
+### 📫 Reach Me
+- **Email:** your-email@example.com  
+- **LinkedIn:** your-linkedin-url  
+- **Portfolio:** your-portfolio-url
+
+---
+⭐ *Always learning. Always building.*
