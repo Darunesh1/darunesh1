@@ -22,9 +22,9 @@ Passionate about building scalable systems, crafting clean APIs, and using AI to
 - Movies & spicy food 🌶️
 
 ### 📫 Reach Me
-- **Email:** your-email@example.com  
-- **LinkedIn:** your-linkedin-url  
-- **Portfolio:** your-portfolio-url
+- **Email:** sathyarajasekar5873@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/darunesh-r-2b53b5264/
+
 
 ---
 ⭐ *Always learning. Always building.*
