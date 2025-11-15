@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Darunesh
 
-🚀 **Backend Developer | AI/ML| DevOps **  
+🚀 **Backend Developer | AI/ML| DevOps**  
 Passionate about building scalable systems, crafting clean APIs, and using AI to solve real problems.
 
 ### 🔧 Technologies I Work With
