@@ -6,12 +6,11 @@
 </div>
 
 ---
-
 ###  **About Me**
 
 |  System Status ||
 |----------|-------------|
-| <ul><li>💻 **Focus:** Backend Engineering, AI/ML Agents, & Distributed Systems</li><li>🦀 **Currently Building:** An OCR tool in Rust using PaddleOCR</li><li>📊 **Research:** Quantum Computing patent analysis dashboard</li><li>🐧 **Environment:** Arch Linux + Hyprland</li><li>🥅 **Goal:** Mastering microservices, LLM agents, and scalable infrastructure</li></ul><blockquote><em>"Always learning. Always building."</em></blockquote> | <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding Animation" width="250"/> |
+| <ul><li> **Focus:** Backend Engineering, AI/ML Agents, & Distributed Systems</li><li> **Currently Building:** An open-source ML Monitoring Framework & Dashboard</li><li> **Research:** Developing AI models for stock market analysis and trading logic</li><li> **Environment:** Arch Linux + Hyprland</li><li> **Goal:** Mastering microservices, LLM agents, and scalable infrastructure</li></ul><blockquote><em>"Always learning. Always building."</em></blockquote> | <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding Animation" width="250"/> |
 
 ---
 
