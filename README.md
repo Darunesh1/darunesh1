@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00c8ff&height=150&section=header&text=Welcome%20to%20Darunesh's%20Terminal%20🚀&fontColor=ffffff&fontSize=45&fontAlignY=30&desc=Backend%20%7C%20AI%2FML%20%7C%20DevOps&descAlignY=55&descAlign=50"/>
 
 <div align="center">
-<h1> Hello, World! I'm Darunesh R</h1>
+<h1> Hello, World! I'm DARUNESH R</h1>
 <p><em>"Building scalable systems, crafting clean APIs, and leveraging AI to solve complex problems."</em></p>
 </div>
 
@@ -10,7 +10,7 @@
 
 |  System Status ||
 |----------|-------------|
-| <ul><li> **Focus:** Backend Engineering, AI/ML Agents, & Distributed Systems</li><li> **Currently Building:** An open-source ML Monitoring Framework & Dashboard</li><li> **Research:** Developing AI models for stock market analysis and trading logic</li><li> **Environment:** Arch Linux + Hyprland</li><li> **Goal:** Mastering microservices, LLM agents, and scalable infrastructure</li></ul><blockquote><em>"Always learning. Always building."</em></blockquote> | <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding Animation" width="250"/> |
+| <ul><li> **Focus:** Data Science, AI/ML Agents, & Backend Engineering</li><li> **Currently Building:** An open-source ML Monitoring Framework & Dashboard</li><li> **Research:** Developing AI models for stock market analysis and trading logic</li><li> **Environment:** Arch Linux + Hyprland</li><li> **Goal:** Mastering microservices, LLM agents, and scalable infrastructure</li></ul><blockquote><em>"Always learning. Always building."</em></blockquote> | <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding Animation" width="250"/> |
 
 ---
 
@@ -52,6 +52,16 @@
 ---
 
 ### **GitHub Telemetry**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darunesh1/Darunesh1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darunesh1/Darunesh1/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Darunesh1/Darunesh1/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br>
 
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darunesh1&theme=tokyonight" />
